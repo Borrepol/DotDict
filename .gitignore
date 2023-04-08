@@ -1,0 +1,24 @@
+# -----------------------------------------------------
+# General
+
+# Python cache
+__pycache__/
+# Folder containing stub files created by mypy, in all folders
+out/
+# All hidden files
+**/.*
+# Exception from the above rule for .gitignore
+!.gitignore
+# All files starting with `__`, in all folders
+**/__*
+
+# -----------------------------------------------------
+# Items/folders specific to this project
+
+
+# -----------------------------------------------------
+# Notes
+
+# `[folder_name]/` matches that folder in all subfolders, not just the top folder
+# A leading `**/[pattern]` matches the pattern in all folders
+# For more info, see: https://git-scm.com/docs/gitignore
