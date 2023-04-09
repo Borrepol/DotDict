@@ -12,9 +12,12 @@ out/
 # All files starting with `__`, in all folders
 **/__*
 
+
 # -----------------------------------------------------
 # Items/folders specific to this project
 
+# Exception from the above rule for __init.py__
+**/__init.py__
 
 # -----------------------------------------------------
 # Notes
