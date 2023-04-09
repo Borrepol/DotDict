@@ -11,9 +11,9 @@ setuptools.setup(
     description='Dictionary that enables referencing of items using `<dict>.<key>`.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/Borrepol/DotDict',
     project_urls={
-        'Bug Tracker': '/issues'
+        'Bug Tracker': 'https://github.com/Borrepol/DotDict/issues'
     },
     license='GPLv3',
     packages=['DotDict'],
