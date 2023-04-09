@@ -10,14 +10,14 @@ out/
 # Exception from the above rule for .gitignore
 !.gitignore
 # All files starting with `__`, in all folders
-**/__*
+# **/__* Commented out for now because the exception with __init.py__ doesn't work
 
 
 # -----------------------------------------------------
 # Items/folders specific to this project
 
 # Exception from the above rule for __init.py__
-**/__init.py__
+!__init.py__
 
 # -----------------------------------------------------
 # Notes

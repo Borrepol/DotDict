@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setuptools.setup(
     name='DotDict',
-    version='0.0.1',
+    version='0.0.2',
     author='Borre Pol Meeuwisse',
     author_email='me@borrepol.nl',
     description='Dictionary that enables referencing of items using `<dict>.<key>`.',
