@@ -17,7 +17,7 @@ setuptools.setup(
     },
     license='GPLv3',
     packages=['DotDict'],
-    install_requires=['collections', 'typing'],
+    install_requires=['typing'],
 )
 
 # TODO: Change this to setup.cfg.
